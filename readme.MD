@@ -45,7 +45,7 @@ Status: "Ready to accept connections"
 ---
 Копируем репозиторий на локальную машину:
 ```
-git clone 
+git clone git@github.com:Splintergreen/test_bot_laone.git
 ```
 ---
 Необходимо установить виртуальное окружение.
